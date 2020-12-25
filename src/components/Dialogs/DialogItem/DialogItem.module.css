@@ -1,0 +1,16 @@
+.dialog {
+    margin-top: 5px;
+}
+
+.dialog a {
+    text-decoration: none;
+    color: #000000;
+    padding: 5px;
+
+}
+
+.dialog:hover {
+    background-color: gold;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}

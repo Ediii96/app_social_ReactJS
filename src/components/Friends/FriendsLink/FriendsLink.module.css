@@ -1,0 +1,11 @@
+.friendsLinkBlock {
+    margin-top: 50px;
+}
+
+.friendsLinkBlock a.activeLink {
+    color: gold;
+}
+
+.friendsLink {
+    font-size: 40px;
+}
